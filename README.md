@@ -33,10 +33,11 @@ This manifesto introduces several original frameworks:
 
 | Diagram | Description | Link |
 |---------|-------------|------|
-| 🏗️ Architecture Overview | Full stack: Human → Agent → Semantic Layer → Systems | [diagrams/architecture.png](diagrams/architecture.png) |
-| 📈 6 Levels Timeline | Visual timeline of AI automation maturity | [diagrams/levels.png](diagrams/levels.png) |
-| 🔐 Governance Comparison | Traditional vs Post-Application governance | [diagrams/governance.png](diagrams/governance.png) |
-
+| 🏗️ **Architecture Overview** | Full stack: Human → Agent → Semantic Layer → Systems | [diagrams/architecture.png](diagrams/architecture.png) |
+| 📈 **6 Levels Timeline** | Visual timeline of AI automation maturity | [diagrams/levels.png](diagrams/levels.png) |
+| 🔐 **Governance Comparison** | Traditional vs Post-Application governance | [diagrams/governance.png](diagrams/governance.png) |
+| 📊 **83/16/1 Rule** | AI vs Human+AI vs UI-only distribution | [diagrams/pie_83_16_1.png](diagrams/pie_83_16_1.png) |
+| 🏭 **Industry Velocity** | When different sectors should invest | [diagrams/industry_velocity_matrix.png](diagrams/industry_velocity_matrix.png) |
 ---
 
 ## 🚀 Getting Started
