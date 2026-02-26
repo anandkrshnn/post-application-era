@@ -32,6 +32,6 @@ Share code, Terraform modules, or architecture diagrams that bring these concept
 
 ## Questions?
 
-Email ananda.krishnan@hotmail.com or connect on [LinkedIn](https://linkedin.com/in/anandakrishnan-damodaran).
+Email ananda.krishnan@hotmail.com or connect on [LinkedIn] https://www.linkedin.com/in/anandkrshnn/
 
 Thank you for helping build the Post-Application future.
