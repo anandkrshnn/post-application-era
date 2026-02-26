@@ -280,7 +280,7 @@ The Post-Application Enterprise is not a single event—it is a 10-year migratio
 **Anandakrishnan Damodaran** is a Principal Data Engineer and AI Architecture researcher focused on the Post-Application Enterprise. He created the **6 Levels of Enterprise AI Automation** framework and the **83/16/1 Rule**, helping organizations navigate from human-driven UIs to agent-driven orchestration on Google Cloud.
 
 **Connect:**
-- LinkedIn: https://www.linkedin.com/in/anandkrshnn/
+- LinkedIn: linkedin.com/in/anandakrishnan-damodaran
 - GitHub: github.com/anandkrshnn
 - Email: ananda.krishnan@hotmail.com
 
