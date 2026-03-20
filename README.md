@@ -85,7 +85,7 @@ Full terms in the [LICENSE](LICENSE) file.
 ## 📬 Connect with the Author
 
 **Anandakrishnan Damodaran**  
-Principal Data Engineer | AI Architecture Researcher
+Principal Data Scientist | AI Architecture Researcher
 
 | Channel | Link |
 |---------|------|
