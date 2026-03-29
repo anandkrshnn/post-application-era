@@ -100,7 +100,7 @@ Principal Data Scientist | AI Architecture Researcher
 
 If you reference this work in presentations, articles, or research:
 
-> Damodaran, A. (2026). *The Post-Application Era: A Framework for Agent-First Enterprise Architecture*. GitHub repository: anandkrshnn/post-application-era.
+> Anandakrishnan (2026). *The Post-Application Era: A Framework for Agent-First Enterprise Architecture*. GitHub repository: anandkrshnn/post-application-era.
 
 ---
 
