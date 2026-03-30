@@ -37,6 +37,24 @@ This manifesto introduces several original frameworks:
 
 ---
 
+## 📋 Policy Applications & Citations
+
+The **83/16/1 Rule** and **Governance Layer** frameworks from this manifesto 
+directly informed a formal public comment submission to a U.S. federal 
+standards body:
+
+> **NIST NCCoE Public Comment**  
+> *"Accelerating the Adoption of Software and AI Agent Identity and Authorization"*  
+> Submitted by: Anandakrishnan Damodaran, Principal Data Scientist & Sovereign AI Architect  
+> Date: March 30, 2026  
+> Contribution: Delegation governance model, Prove-Transform-Verify (PTV) 
+> authorization framework, Zero-Egress Sovereign Healthcare demonstration scenario
+
+This represents the first known application of the Post-Application Era 
+governance model to a national cybersecurity standards process.
+
+---
+
 ## 📊 Diagrams
 
 | Diagram | Description | Link |
@@ -104,12 +122,25 @@ Principal Data Scientist | AI Architecture Researcher
 
 ---
 
-## ⭐ Citation
+## 📖 How to Cite This Work
 
-If you reference this work in presentations, articles, or research:
+```bibtex
+@techreport{damodaran2026postapp,
+  author    = {Damodaran, Anandakrishnan},
+  title     = {The Post-Application Era: A Framework for Agent-First 
+               Enterprise Architecture},
+  year      = {2026},
+  type      = {Independent Technical Publication},
+  version   = {1.0},
+  url       = {https://github.com/anandkrshnn/post-application-era},
+  note      = {Informed NIST NCCoE public comment, March 2026}
+}
+```
 
-> Anandakrishnan (2026). *The Post-Application Era: A Framework for Agent-First Enterprise Architecture*. GitHub repository: anandkrshnn/post-application-era.
-
+**Plain text citation:**
+Damodaran, Anandakrishnan (2026). *The Post-Application Era: A Framework 
+for Agent-First Enterprise Architecture*. Independent Technical Publication, 
+Version 1.0. Available: https://github.com/anandkrshnn/post-application-era
 ---
 
 *"The question isn't trust—it's governance."*
