@@ -2,16 +2,19 @@
 
 A framework for architecting agent-first enterprises. This repository contains the manifesto, diagrams, and reference materials for the **6 Levels of Enterprise AI Automation**, the **Universal Semantic Layer**, and governance models for agentic systems.
 
----
+***
+
 ## Abstract
-Traditional enterprise software is being displaced by autonomous AI agents 
-that interpret human intent directly — eliminating the application layer entirely. 
-This manifesto introduces a **6-level maturity model** for enterprise AI automation, 
-a governance framework for human-agent collaboration (the **83/16/1 Rule**), 
-and an architectural blueprint for the **Sovereign AI Stack** — 
+
+Traditional enterprise software is being displaced by autonomous AI agents
+that interpret human intent directly — eliminating the application layer entirely.
+This manifesto introduces a **6-level maturity model** for enterprise AI automation,
+a governance framework for human-agent collaboration (the **83/16/1 Rule**),
+and an architectural blueprint for the **Sovereign AI Stack** —
 tested across production healthcare deployments in 2025–2026.
 
----
+***
+
 ## 📖 Read the Manifesto
 
 | Format | Link |
@@ -19,7 +22,7 @@ tested across production healthcare deployments in 2025–2026.
 | 📄 Markdown | [whitepaper/manifesto-v1.0.md](whitepaper/manifesto-v1.0.md) |
 | 📑 PDF | [whitepaper/manifesto-v1.0.pdf](whitepaper/manifesto-v1.0.pdf) |
 
----
+***
 
 ## 🧠 Core Frameworks
 
@@ -35,25 +38,25 @@ This manifesto introduces several original frameworks:
 | **The Orchestration Tax** | The new complexity of agents negotiating with agents |
 | **Failure Modes** | 6 predictable ways organizations fail |
 
----
+***
 
 ## 📋 Policy Applications & Citations
 
-The **83/16/1 Rule** and **Governance Layer** frameworks from this manifesto 
-directly informed a formal public comment submission to a U.S. federal 
+The **83/16/1 Rule** and **Governance Layer** frameworks from this manifesto
+directly informed a formal public comment submission to a U.S. federal
 standards body:
 
-> **NIST NCCoE Public Comment**  
-> *"Accelerating the Adoption of Software and AI Agent Identity and Authorization"*  
-> Submitted by: Anandakrishnan Damodaran, Principal Data Scientist & Sovereign AI Architect  
-> Date: March 30, 2026  
-> Contribution: Delegation governance model, Prove-Transform-Verify (PTV) 
+> **NIST NCCoE Public Comment**
+> *"Accelerating the Adoption of Software and AI Agent Identity and Authorization"*
+> Submitted by: Anandakrishnan Damodaran, Principal Data Scientist & Sovereign AI Architect
+> Date: March 30, 2026
+> Contribution: Delegation governance model, Prove-Transform-Verify (PTV)
 > authorization framework, Zero-Egress Sovereign Healthcare demonstration scenario
 
-This represents the first known application of the Post-Application Era 
+This represents the first known application of the Post-Application Era
 governance model to a national cybersecurity standards process.
 
----
+***
 
 ## 📊 Diagrams
 
@@ -66,7 +69,7 @@ governance model to a national cybersecurity standards process.
 | 📊 **83/16/1 Rule** | AI vs Human+AI vs UI-only distribution | [diagrams/pie_83_16_1.png](diagrams/pie_83_16_1.png) |
 | 🏭 **Industry Velocity** | When different sectors should invest | [diagrams/industry_velocity_matrix.png](diagrams/industry_velocity_matrix.png) |
 
----
+***
 
 ## 🚀 Getting Started
 
@@ -78,7 +81,7 @@ New to the Post-Application Era? Start here:
 
 > *"Clarity before velocity. Measurement before scale."*
 
----
+***
 
 ## 🤝 Contributing
 
@@ -92,7 +95,7 @@ This is a living document. If you're building Level 3-4 agents in production, I 
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
----
+***
 
 ## 📄 License
 
@@ -106,28 +109,27 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 
 Full terms in the [LICENSE](LICENSE) file.
 
----
+***
 
 ## 📬 Connect with the Author
 
-**Anandakrishnan Damodaran**  
+**Anandakrishnan Damodaran**
 Principal Data Scientist | AI Architecture Researcher
 
 | Channel | Link |
 |---------|------|
-| 🔗 LinkedIn | (https://www.linkedin.com/in/anandkrshnn/) |
-| 📧 Email | ananda.krishnan@hotmail.com |
-| 🐙 GitHub | (https://github.com/anandkrshnn) |
+| 🔗 LinkedIn | [linkedin.com/in/anandkrshnn](https://www.linkedin.com/in/anandkrshnn/) |
+| 📧 Email | [ananda.krishnan@hotmail.com](mailto:ananda.krishnan@hotmail.com) |
+| 🐙 GitHub | [github.com/anandkrshnn](https://github.com/anandkrshnn) |
 
-
----
+***
 
 ## 📖 How to Cite This Work
 
-```bibtex
+\`\`\`bibtex
 @techreport{damodaran2026postapp,
   author    = {Damodaran, Anandakrishnan},
-  title     = {The Post-Application Era: A Framework for Agent-First 
+  title     = {The Post-Application Era: A Framework for Agent-First
                Enterprise Architecture},
   year      = {2026},
   type      = {Independent Technical Publication},
@@ -135,12 +137,23 @@ Principal Data Scientist | AI Architecture Researcher
   url       = {https://github.com/anandkrshnn/post-application-era},
   note      = {Informed NIST NCCoE public comment, March 2026}
 }
-```
+\`\`\`
 
 **Plain text citation:**
-Damodaran, Anandakrishnan (2026). *The Post-Application Era: A Framework 
-for Agent-First Enterprise Architecture*. Independent Technical Publication, 
-Version 1.0. Available: https://github.com/anandkrshnn/post-application-era
----
+Damodaran, Anandakrishnan (2026). *The Post-Application Era: A Framework
+for Agent-First Enterprise Architecture*. Independent Technical Publication,
+Version 1.0. Available: [https://github.com/anandkrshnn/post-application-era](https://github.com/anandkrshnn/post-application-era)
+
+***
+
+## 🔗 Related Implementations
+
+| Repository | Description |
+|---|---|
+| [sovereign-ai-stack](https://github.com/anandkrshnn/sovereign-ai-stack) | Production implementation of the Sovereign AI Stack |
+| [protocol-z-federate](https://github.com/anandkrshnn/protocol-z-federate) | HotStuff BFT federation hub for cross-jurisdictional agent mesh |
+| [gaip-2030-standard](https://github.com/anandkrshnn/gaip-2030-standard) | GAIP governance standard implementation |
+
+***
 
 *"The question isn't trust—it's governance."*
