@@ -1,3 +1,49 @@
+> **Part of the [Sovereign AI Stack](https://github.com/anandkrshnn/sovereign-ai-stack)** — strategic roadmap & cognitive architecture layer.
+>
+> **License Note:** This repository uses [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (non-commercial). The other components of the Sovereign AI Stack use MIT. See [LICENSE](./LICENSE) for details.
+
+---
+
+# The Post-Application Era
+
+> *We are leaving the age of software applications. We are entering the age of sovereign, agentic intelligence.*
+
+## What This Repository Contains
+
+This framework defines the **cognitive architecture and strategic roadmap** for enterprises transitioning from traditional applications to autonomous AI agents operating under the Sovereign AI Stack.
+
+### The 6 Levels of AI Automation
+
+| Level | Name | Human Involvement | Key Capability |
+|---|---|---|---|
+| 1 | Assisted Intelligence | High | Manual ETL + ZK-proof pilots |
+| 2 | Augmented Intelligence | Medium-High | Semi-automated cross-border workflows |
+| 3 | Federated Intelligence | Medium | Automated proof generation, 3+ regions |
+| 4 | Autonomous Governance | Low | Full GAIP 2030, quantum-resilient |
+| 5 | Sovereign Intelligence | Minimal | Natural language → ZK-proof queries |
+| 6 | Autonomous Sovereign AI | Zero for routine | Self-governing agents, individual data sovereignty |
+
+### The 83/16/1 Governance Rule
+
+| % | Decision Type | Human Role |
+|---|---|---|
+| **83%** | Routine, low-risk | None — fully automated with ZK-proofs |
+| **16%** | Medium-risk edge cases | Review & approve |
+| **1%** | Novel, high-risk | Full human judgment + reasoning trace |
+
+### Universal Semantic Layer
+A jurisdiction-agnostic query interface where business intent expressed in natural language is automatically translated into compliant, ZK-verified data operations.
+
+---
+
+## Related Repositories
+
+| Repo | Role |
+|---|---|
+| [sovereign-ai-stack](https://github.com/anandkrshnn/sovereign-ai-stack) | Umbrella architecture |
+| [protocol-z-federate](https://github.com/anandkrshnn/protocol-z-federate) | ZK-ETL engine |
+| [gaip-2030-standard](https://github.com/anandkrshnn/gaip-2030-standard) | Governance & policy |
+
 # The Post-Application Era
 
 A framework for architecting agent-first enterprises. This repository contains the manifesto, diagrams, and reference materials for the **6 Levels of Enterprise AI Automation**, the **Universal Semantic Layer**, and governance models for agentic systems.
