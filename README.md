@@ -1,3 +1,10 @@
+## Abstract
+Traditional enterprise software is being displaced by autonomous AI agents 
+that interpret human intent directly — eliminating the application layer entirely. 
+This manifesto introduces a **6-level maturity model** for enterprise AI automation, 
+a governance framework for human-agent collaboration (the **83/16/1 Rule**), 
+and an architectural blueprint for the **Sovereign AI Stack** — 
+tested across production healthcare deployments in 2025–2026.
 # The Post-Application Era
 
 A framework for architecting agent-first enterprises. This repository contains the manifesto, diagrams, and reference materials for the **6 Levels of Enterprise AI Automation**, the **Universal Semantic Layer**, and governance models for agentic systems.
