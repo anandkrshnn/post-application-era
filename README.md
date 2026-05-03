@@ -11,12 +11,15 @@
 
 The "Post-Application Era" describes a transition where monolithic software applications are replaced by **Universal Semantic Layers** and **Autonomous Agentic Workflows**. This repository explores the governance, identity, and retrieval models required to make this transition safe and auditable.
 
-### Proposed Maturity Model (Experimental)
+### Proposed Maturity Model (Research Horizons)
 We are researching a 6-level path toward autonomous enterprises:
-- **Level 1**: Augmented Retrieval (Current focus of `local-rag`)
-- **Level 2**: Governed Action
-- ...
-- **Level 6**: Fully Autonomous Sovereign Enterprise (Theoretical)
+
+- **Level 1: Augmented Retrieval** — Context-aware search with deterministic gating (Current focus of `local-rag`).
+- **Level 2: Governed Action** — Policy-bound tool use and sandboxed execution (`local-agent` prototype).
+- **Level 3: Orchestration Automation** — AI-coordinated workflows across multiple isolated systems.
+- **Level 4: Decision Automation** — Contextual recommendation engines with human-in-the-loop verification.
+- **Level 5: Autonomous Resolution** — End-to-end execution within cryptographically-defined guardrails.
+- **Level 6: Autonomous Procurement** — Fully autonomous, sovereign organizational resolution (The "North Star").
 
 ---
 
